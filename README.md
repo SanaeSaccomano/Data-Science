@@ -4,12 +4,21 @@
 
 Projet portant sur les arbres de la ville de Paris 
 
+- Analyse statistique univariée
+- Représentation des distributions
+- Réflexion à propos des valeurs aberrantes vs valeurs atypiques
+
 Extrait : 
 
 ![Extrait_01](https://user-images.githubusercontent.com/91669852/178103880-db7dc036-66d4-4b70-bf3f-2035e853ab90.PNG)
 
 - Analyses Descriptives et Explicatives
 Projet portant sur l'analyse de données Open Food Facts
+
+- Nettoyage de données
+- Visualisation intéractive de données
+- Analyses Descriptives (Corrélation de Pearson) et Réduction de dimensions (PCA)
+- Analyses Explicatives (ANOVA, CHI-2)
 
 Extrait : 
 
