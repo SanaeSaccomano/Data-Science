@@ -1,6 +1,6 @@
 #  ![little_icon](https://user-images.githubusercontent.com/91669852/178104798-ce6481da-a9dd-4b29-99e0-38eb6f6f106d.png) Statistiques et Visualisations
 
-Projet portant sur les arbres de la ville de Paris 
+Projet portant sur les arbres d'une grande ville, très connue pour son émetteur situé 5 rue Anatole-France.
 
 - Analyse statistique univariée
 - Représentation des distributions
