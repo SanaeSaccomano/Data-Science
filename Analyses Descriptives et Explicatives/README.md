@@ -32,7 +32,7 @@ Un coup d'oeil au projet se trouve au sein de la présentation [C'est du Bon](ht
 *Note : les fonctions personnelles de ce projet ne sont pas explicitées pour des raisons de confidentialité mais sont expliquées dès leur premier appel dans le script.*
 
 ## Mots clés 
-python dataviz plotly seaborn matplotlib multivariate-analysis voila jupyter-notebook beautiful-data
+python dataviz plotly seaborn matplotlib multivariate-analysis voila! jupyter-notebook beautiful-data
 
 
 ## Extrait :
